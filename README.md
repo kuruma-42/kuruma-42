@@ -2,8 +2,8 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=YongJunCha&fontSize=90)
 
 #### Hi there✌️
-I believe everything has patterns. 🧩
-So I've been trying to find out patterns whatever I do(💡  
+I believe everything has patterns 🧩  
+So I've been trying to find out patterns whatever I do💡    
 
 日本語も可能なのでいつでもご連絡下さい。  
 お問い合わせはメールでお願い申し上げます。
