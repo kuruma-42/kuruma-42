@@ -2,8 +2,8 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=YongJunCha&fontSize=90)
 
 #### Hi there✌️
-I think everything has a patterns. 🧩  
-I've tried to find that kind of patterns whenever I do something💡  
+I believe everything has patterns. 🧩
+So I've been trying to find out patterns whatever I do(💡  
 
 日本語も可能なのでいつでもご連絡下さい。  
 お問い合わせはメールでお願い申し上げます。
@@ -34,7 +34,7 @@ Edu Socket - SoftWare Engineer Training
 </p>
 <br/><br/><br/>
 <p align = "center"> 🌕 Me 🌔</p>
-<p align = "center"><img alt="G-Mail" src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)"</p>
-
-
-
+<p align = "center">
+  <a align = "center" target="_blank" href="mailto:yongjuncha611@gmail.com?subject=Hello%20Cha,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
