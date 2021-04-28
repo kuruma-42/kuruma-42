@@ -10,7 +10,6 @@ So I try to find out patterns in whatever I do💡
 
 #### 💫Experience
 Eldigm R&D Intern - Construction Management System | Inventory Management System   
-Edu Socket - SoftWare Engineer Training
 <br/><br/><br/>
 <h3 align = "center">🛠Tech Stack🛠</h3>
 
