@@ -36,4 +36,6 @@ Eldigm R&D Intern - Construction Management System | Inventory Management System
 <p align = "center">
   <a align = "center" target="_blank" href="mailto:yongjuncha611@gmail.com?subject=Hello%20Cha,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://velog.io/@kuruma-42"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@kuruma-42"/>
+  </a>&nbsp
 </p>
