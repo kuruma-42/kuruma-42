@@ -9,8 +9,8 @@ So I try to find out patterns in whatever I do💡
 お問い合わせはメールでお願い申し上げます。
 
 #### 💫Experience
-Eldigm R&D Intern - Construction Management System | Inventory Management System 
-SNPLab Inc. Mobile Dev - iOS Develope Part
+Eldigm R&D Intern - Construction Management System | Inventory Management System.   
+SNPLab Inc. Mobile Dev - iOS Develop Part.  
 <br/><br/><br/>
 <h3 align = "center">🛠Tech Stack🛠</h3>
 
